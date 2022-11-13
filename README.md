@@ -14,3 +14,8 @@ https://www.kaggle.com/datasets/mitishaagarwal/patient
   4. Se crea una carpeta oculta y se copia el archivo de creedenciales .j
   5. Se cambian los permisos para permitir la lectura 
   6. Por ultimo se comprueva la conexion a la API de Kaggle
+
+
+%Videos
+
+Entrega final: https://youtu.be/HwKt2F30ZFM 
